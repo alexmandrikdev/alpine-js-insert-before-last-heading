@@ -13,5 +13,8 @@
   },
   "scripts": {
     "build": "node scripts/build.js"
+  },
+  "devDependencies": {
+    "prettier": "2.5.1"
   }
 }
