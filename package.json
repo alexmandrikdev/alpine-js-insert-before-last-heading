@@ -1,12 +1,12 @@
 {
-  "name": "@victoryoalli/alpinejs-plugin-blueprint",
+  "name": "@mndalex/alpine-js-insert-before-last-heading",
   "version": "1.0.0",
-  "description": "Super alpine.js plugin",
+  "description": "This directive moves the DOM element the directive is added to before the last heading inside the given container",
   "main": "dist/plugin.cjs.js",
   "module": "dist/plugin.esm.js",
   "unpkg": "dist/plugin.min.js",
   "keywords": [],
-  "author": "Victor Yoalli",
+  "author": "Alex Andras Mandrik",
   "license": "MIT",
   "dependencies": {
     "esbuild": "^0.12.22"
