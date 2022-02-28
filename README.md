@@ -1,5 +1,3 @@
-# AlpineJS Plugin Blueprint
+# Alpine.js Insert Before Last Heading plugin
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/victoryoalli/alpinejs-plugin-blueprint)
-
-Replace all `plugin` and `magic` text to your corresponding code
+This directive moves the DOM element before the last heading inside the given container. The container's selector should be defined as the attribute's value.
